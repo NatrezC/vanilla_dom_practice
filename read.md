@@ -1,1 +1,1 @@
-<img src="https://files.slack.com/files-pri/T0351JZQ0-F01A9HJ3Q9Y/image_from_ios.jpg">
+https://files.slack.com/files-pri/T0351JZQ0-F01A9HJ3Q9Y/image_from_ios.jpg"
